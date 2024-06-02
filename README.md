@@ -18,9 +18,9 @@ Softwere Engineer
 
 ## Figma
 
-- [KMUTNB - LMS (Page Design)](https://www.figma.com/design/b1lnvsZAjLiLm6q8T34ktt/KMUTNB?node-id=52-4765&t=dS0iYRfgAsnNHHtX-1)
-- [KMUTNB - LMS (Activity Diagram & Site Map)](https://www.figma.com/board/Ppqpyi7r7QoY2rlPYGBNKU/Site-Map-%2F-Activity-Diagram-%3A-LMS?node-id=0-1&t=NSuvUaWLXAU3DnTo-1)
-- [BST Project](https://www.figma.com/design/kLkOee7dS8zhLNtIcYflZK/Untitled?node-id=0-1&t=piVQ6WFyzyR5swKo-1)
+- [E-Learning (Page Design)](https://www.figma.com/design/b1lnvsZAjLiLm6q8T34ktt/KMUTNB?node-id=52-4765&t=dS0iYRfgAsnNHHtX-1)
+- [E-Learning (Activity Diagram & Site Map)](https://www.figma.com/board/Ppqpyi7r7QoY2rlPYGBNKU/Site-Map-%2F-Activity-Diagram-%3A-LMS?node-id=0-1&t=NSuvUaWLXAU3DnTo-1)
+- [Re-Design Project](https://www.figma.com/design/kLkOee7dS8zhLNtIcYflZK/Untitled?node-id=0-1&t=piVQ6WFyzyR5swKo-1)
 
 
 ### Socials
