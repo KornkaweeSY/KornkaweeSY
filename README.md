@@ -16,6 +16,10 @@ Softwere Engineer
 </p>
 
 
+## Figma
+
+- [KMUTNB - LMS](https://www.figma.com/design/b1lnvsZAjLiLm6q8T34ktt/KMUTNB?node-id=52-4765&t=dS0iYRfgAsnNHHtX-1)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/KornkaweeSY" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
