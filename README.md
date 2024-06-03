@@ -6,7 +6,7 @@ Softwere Engineer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Kornkawee.sy@gmail.com](mailto:Kornkawee.sy@gmail.com)
-* 🧠  I'm learning PHP Langague
+* 🧠  I'm learning PHP, TypeScript Langague
 
 ### Skills
 
